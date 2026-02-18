@@ -32,7 +32,7 @@ Sviluppatore appassionato di tecnologia e programmazione. Sempre alla ricerca di
 </p>
 
 ## 🛠️ Strumenti di Sviluppo
-<p align="center">
+<p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
@@ -42,7 +42,7 @@ Sviluppatore appassionato di tecnologia e programmazione. Sempre alla ricerca di
 </p>
 
 ## ⚡ Automazione & Workflow
-<p align="center">
+<p align="left">
   <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> 
   </a>
@@ -64,7 +64,7 @@ Sviluppatore appassionato di tecnologia e programmazione. Sempre alla ricerca di
 ---
 
 ## 📫 Contatti
-<p align="center">
+<p align="left">
 <a href="https://discord.gg/d8rNwNxQEw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="d8rNwNxQEw" height="30" width="40" /></a>
 <a href="https://t.me/megustalamangusta" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/telegram.svg" alt="telegram" height="30" width="40" /></a>
 <a href="https://github.com/fagghino" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="fagghino" height="30" width="40" /></a>
