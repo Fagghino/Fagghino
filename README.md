@@ -31,6 +31,9 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> 
   </a>
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="50" height="50"/> 
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
   </a>
@@ -40,9 +43,6 @@
   <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="50" height="50"/> 
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> 
-  </a>
 </p>
 
 ## 🛠️ Strumenti & Tecnologie
@@ -50,6 +50,9 @@
 <p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> 
+  </a>
+  <a href="https://gradle.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" alt="gradle" width="50" height="50"/> 
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> 
@@ -124,9 +127,11 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E" />
   <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=007396" />
+  <img src="https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=7F52FF" />
   <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=A8B9CC" />
   <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25" />
   <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=F05032" />
+  <img src="https://img.shields.io/badge/Tools-Gradle-informational?style=flat&logo=gradle&logoColor=white&color=02303A" />
   <img src="https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=181717" />
   <img src="https://img.shields.io/badge/Tools-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=339933" />
   <img src="https://img.shields.io/badge/Tools-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC" />
