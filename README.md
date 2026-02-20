@@ -11,31 +11,13 @@
 
 ## 🚀 Chi sono
 
-```javascript
-const fagghino = {
-    nome: "Fagghino",
-    ruolo: "Developer",
-    linguaggi: ["JavaScript", "Java", "C", "Bash", "MATLAB"],
-    strumenti: ["Git", "Node.js", "VS Code"],
-    passioni: ["Coding", "Automazione", "Open Source"],
-    attualmenteImparo: "Nuove tecnologie e best practices",
-    obiettivi2026: "Contribuire a progetti open source e crescere come developer",
-    hobbies: ["Automation workflows", "Problem solving", "Tech exploration"]
-};
-```
-
 <p align="center">
-  💻 Sviluppatore appassionato di tecnologia e programmazione<br>
-  🎯 Sempre alla ricerca di nuove sfide e opportunità per imparare<br>
-  🌱 In crescita continua nel mondo dello sviluppo software<br>
-  ⚡ "Code is poetry in motion"
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fagghino&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="fagghino" />
+  💻 <strong>Sviluppatore appassionato</strong> di tecnologia e programmazione<br><br>
+  🎯 Sempre alla ricerca di <strong>nuove sfide</strong> e opportunità per imparare<br><br>
+  🌱 In <strong>crescita continua</strong> nel mondo dello sviluppo software<br><br>
+  ⚡ Appassionato di <strong>automazione</strong> e <strong>problem solving</strong><br><br>
+  🚀 Obiettivo 2026: <strong>Contribuire a progetti open source</strong><br><br>
+  💡 <em>"Code is poetry in motion"</em>
 </p>
 
 ---
@@ -97,11 +79,6 @@ const fagghino = {
 ---
 
 ## 📊 Statistiche GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fagghino&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fagghino&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fagghino&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
