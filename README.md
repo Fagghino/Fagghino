@@ -106,35 +106,16 @@
 
 ---
 
-## 🎯 Progetti in Evidenza
+## 🎯 Esplora il mio GitHub
 
 <p align="center">
   <a href="https://github.com/fagghino?tab=repositories">
-    <img src="https://img.shields.io/badge/Vedi_Tutti_i_Progetti-100000?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
+    <img src="https://img.shields.io/badge/📚_Le_mie_Repositories-100000?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+  </a>
+  <a href="https://github.com/fagghino?tab=organizations">
+    <img src="https://img.shields.io/badge/🏢_Le_mie_Organizations-181717?style=for-the-badge&logo=github&logoColor=white" alt="Organizations"/>
   </a>
 </p>
-
-<!-- Aggiungi qui i tuoi progetti principali quando ne avrai
-<p align="center">
-  <a href="https://github.com/fagghino/progetto1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fagghino&repo=progetto1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/fagghino/progetto2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fagghino&repo=progetto2&theme=tokyonight" />
-  </a>
-</p>
--->
-
-<!-- Aggiungi qui i tuoi progetti principali quando ne avrai
-<p align="center">
-  <a href="https://github.com/fagghino/progetto1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fagghino&repo=progetto1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/fagghino/progetto2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fagghino&repo=progetto2&theme=tokyonight" />
-  </a>
-</p>
--->
 
 ---
 
