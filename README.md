@@ -99,12 +99,7 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fagghino&theme=tokyonight" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fagghino&theme=tokyonight" alt="Most Commit Language"/>
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fagghino&theme=tokyonight" alt="Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fagghino&theme=tokyonight&utcOffset=1" alt="Productive Time"/>
 </p>
 
 ---
