@@ -110,19 +110,6 @@
   <a href="https://github.com/fagghino?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/📚_Le_mie_repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Fagghino - Repositories"/>
   </a>
-  
-  <div style="margin-top: 20px;">
-    <h5>Le mie Organizations:</h5>
-    <a href="https://github.com/Franchino961-Mod" target="_blank">
-      <img src="https://img.shields.io/badge/🏢_Le_mie_mods-181717?style=for-the-badge&logo=github&logoColor=white" alt="Franchino961 - Mod"/>
-    </a>
-    <a href="https://github.com/Franchino961-Plugins" target="_blank">
-      <img src="https://img.shields.io/badge/⚙️_I_miei_plugins-181717?style=for-the-badge&logo=github&logoColor=white" alt="Franchino961 - Plugins"/>
-    </a>
-    <a href="https://github.com/Franchino961-DataPack" target="_blank">
-      <img src="https://img.shields.io/badge/📖_I_miei_data_packs-181717?style=for-the-badge&logo=github&logoColor=white" alt="Franchino961 - DataPacks"/>
-    </a>
-  </div>
 </div>
 
 ---
