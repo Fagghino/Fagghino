@@ -141,22 +141,7 @@ I am an innovative **Software Engineer** specializing in full-stack development,
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fagghino&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=c084fc&text_color=e2e8f0&icon_color=818cf8&border_color=4f46e5" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fagghino&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=c084fc&text_color=e2e8f0&icon_color=818cf8&border_color=4f46e5" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fagghino&theme=tokyonight&background=0d1117&title=c084fc&text=e2e8f0&dates=818cf8&ring=c084fc&fire=7c3aed&stroke=4f46e5" alt="GitHub Streak" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.herokuapp.com/?username=fagghino&theme=tokyonight&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
-  </a>
 </p>
 
 ---
